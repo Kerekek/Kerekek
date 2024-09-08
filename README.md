@@ -12,10 +12,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Kerekek/count.svg)
 <h3 align="center">GitHub Analytics ⚙️</h3>
 <a href="https://github.com/Kerekek/github-readme-stats" alt="">
-    <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=AlessioCasolaro&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessioCasolaro&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
+    <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Kerekek&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kerekek&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
 </a>
 
 ---
@@ -32,8 +34,6 @@
 <p align="center">
     <img src = "https://komarev.com/ghpvc/?username=AlessioCasolaro&color=0d1117&style=flat-square">
 </p>
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Kerekek/count.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
