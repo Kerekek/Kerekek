@@ -13,3 +13,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+</p>
