@@ -5,7 +5,7 @@
 <!--
 **Kerekek/Kerekek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python);
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518);
