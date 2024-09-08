@@ -1,4 +1,4 @@
-![https://camo.githubusercontent.com/e116dbfd45eef526ec259adaa73de2045a0a736c6a10a734ea161e36029f27e0/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966)
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 ## Hi there 👋
 
