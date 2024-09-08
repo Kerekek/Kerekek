@@ -16,7 +16,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/Kerekek/count.svg)
 <h3 align="center">GitHub Analytics ⚙️</h3>
 <a href="https://github.com/Kerekek/github-readme-stats" alt="">
-    <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Kerekek&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kerekek&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
 </a>
 
