@@ -15,7 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerekek&show_icons=true&theme=tokyonight)
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Kerekek/count.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
